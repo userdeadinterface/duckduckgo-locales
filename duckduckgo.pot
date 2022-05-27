@@ -806,8 +806,18 @@ msgid "Block Trackers"
 msgstr ""
 
 # smartling.placeholder_format=C
+msgctxt "homepage ATB modal experiment"
+msgid "Block advertising trackers and take control of your personal data"
+msgstr ""
+
+# smartling.placeholder_format=C
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Block advertising trackers."
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "homepage ATB modal experiment"
+msgid "Block trackers as you browse."
 msgstr ""
 
 # smartling.placeholder_format=C
@@ -3182,6 +3192,11 @@ msgid "Keep in Touch"
 msgstr ""
 
 # smartling.placeholder_format=C
+msgctxt "homepage ATB modal experiment"
+msgid "Keep your search history private"
+msgstr ""
+
+# smartling.placeholder_format=C
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Keep your search history private."
 msgstr ""
@@ -5280,6 +5295,11 @@ msgid "Search"
 msgstr ""
 
 # smartling.placeholder_format=C
+#. e.g., 'Search coffee shop in san diego ca to find results closer to you?' (when the user searched with a local query like 'coffee shop near me')
+msgid "Search %s to find results closer to you?"
+msgstr ""
+
+# smartling.placeholder_format=C
 msgid "Search Anonymously"
 msgstr ""
 
@@ -5985,6 +6005,11 @@ msgid "Stock"
 msgstr ""
 
 # smartling.placeholder_format=C
+msgctxt "homepage ATB modal experiment"
+msgid "Stop hidden trackers lurking on other websites."
+msgstr ""
+
+# smartling.placeholder_format=C
 msgctxt "settings"
 msgid "Stores the previous region that was set"
 msgstr ""
@@ -6519,6 +6544,11 @@ msgid "Try our homepage that never shows these messages:"
 msgstr ""
 
 # smartling.placeholder_format=C
+#. e.g., 'Try search for Mozart' (when the user searched for 'Mozar')
+msgid "Try searching for %s"
+msgstr ""
+
+# smartling.placeholder_format=C
 msgctxt "precise_user_location"
 msgid "Try setting your location manually."
 msgstr ""
@@ -6882,6 +6912,11 @@ msgstr ""
 # smartling.placeholder_format=C
 msgctxt "SERP footer content"
 msgid "We Protect Your Privacy"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "homepage ATB modal experiment"
+msgid "We can block hidden data collectors lurking on websites you browse."
 msgstr ""
 
 # smartling.placeholder_format=C
@@ -7335,6 +7370,12 @@ msgid "Your Location"
 msgstr ""
 
 # smartling.placeholder_format=C
+#. Disclaimer telling users their location remains private.
+msgctxt "local_query_rewrite_experiment"
+msgid "Your actual location remains"
+msgstr ""
+
+# smartling.placeholder_format=C
 #. Disclaimer telling users their precise geolocation remains private. More at https://help.duckduckgo.com/duckduckgo-help-pages/privacy/anonymous-localized-results/
 msgctxt "maps_places"
 msgid "Your actual location remains private"
@@ -7358,6 +7399,11 @@ msgid "Your data shouldn’t be for sale."
 msgstr ""
 
 # smartling.placeholder_format=C
+msgctxt "homepage ATB modal experiment"
+msgid "Your data shouldn’t be for sale."
+msgstr ""
+
+# smartling.placeholder_format=C
 msgctxt "newsletter email collection"
 msgid ""
 "Your email address will not be shared, %sor associated with anonymous "
@@ -7376,6 +7422,11 @@ msgstr ""
 # smartling.placeholder_format=C
 msgctxt "new user poll"
 msgid "Your response is 100% anonymous."
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "homepage ATB modal experiment"
+msgid "You’re Searching Privately with DuckDuckGo."
 msgstr ""
 
 # smartling.placeholder_format=C
@@ -7488,6 +7539,12 @@ msgstr ""
 # smartling.placeholder_format=C
 #. Message displayed sometimes at top of results -- in the context of safe search.
 msgid "permanently"
+msgstr ""
+
+# smartling.placeholder_format=C
+#. End of message telling users their precise geolocation remains private. Links to https://help.duckduckgo.com/duckduckgo-help-pages/privacy/anonymous-localized-results/
+msgctxt "local_query_rewrite_experiment"
+msgid "private"
 msgstr ""
 
 # smartling.placeholder_format=C
