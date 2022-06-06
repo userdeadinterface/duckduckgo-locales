@@ -1306,6 +1306,11 @@ msgctxt "Covid 19 module"
 msgid "Coronavirus Disease (COVID-19)"
 msgstr ""
 
+#. Title of modal shown when user gets bot challenge correct
+msgctxt "Anomaly modal"
+msgid "Correct!"
+msgstr ""
+
 #. Instant Answer Tab Name
 msgid "Coupons"
 msgstr "Cwponau"
@@ -2840,6 +2845,11 @@ msgstr "Llwytho Fwy"
 msgid "Load Settings"
 msgstr "Llwytho Gosodiadau"
 
+#. Instructions for user once they've passed the bot challenge
+msgctxt "Anomaly modal"
+msgid "Loading your search results now."
+msgstr ""
+
 msgid "Loading..."
 msgstr "Llwytho..."
 
@@ -3777,6 +3787,13 @@ msgstr "Lleoliad:"
 msgid "Places"
 msgstr "Llefydd"
 
+#. Bot challenge explanation
+msgctxt "Anomaly modal"
+msgid ""
+"Please complete the following challenge to confirm this search was made by a "
+"human."
+msgstr ""
+
 msgctxt "cloudsave"
 msgid "Please enter a pass phrase"
 msgstr "Plîs rhowch mewn cyfrinair"
@@ -3819,6 +3836,11 @@ msgstr ""
 
 msgid "Please try again"
 msgstr "Rhowch gynnig arall arni"
+
+#. Title of modal shown when user gets bot challenge incorrect
+msgctxt "Anomaly modal"
+msgid "Please try again"
+msgstr ""
 
 msgid "Poland"
 msgstr "Gwlad Pwyl"
@@ -4534,6 +4556,11 @@ msgstr ""
 msgctxt "precise_user_location"
 msgid "Select Settings > Location."
 msgstr "Dewiswch Gosodiadau > Lleoliad."
+
+#. Bot challenge instructions
+msgctxt "Anomaly modal"
+msgid "Select all squares containing a duck"
+msgstr ""
 
 msgid "Selected %sDuckDuckGo%s"
 msgstr ""
@@ -5299,6 +5326,11 @@ msgstr "Tryloyw"
 msgid "Trusted by tens of millions worldwide!"
 msgstr ""
 
+#. Text of button allowing users to try the bot challenge again
+msgctxt "Anomaly modal"
+msgid "Try Again"
+msgstr ""
+
 #. Alternate header text for front page
 msgid "Try a search!"
 msgstr "Triwch chwilio!"
@@ -5454,6 +5486,11 @@ msgstr "Tanlinellu:"
 #. This is the description of a user setting
 msgctxt "settings"
 msgid "Underlines result titles"
+msgstr ""
+
+#. Title of modal shown when we believe a user to be a bot
+msgctxt "Anomaly modal"
+msgid "Unfortunately, bots use DuckDuckGo too."
 msgstr ""
 
 #. Instant Answer tab name
@@ -5968,6 +6005,16 @@ msgstr "Gallech rannu'ch gosodiadau rhwng cyfrifiaduron a phorwyr."
 msgctxt "cloudsave"
 msgid "You can store several sets of settings for different purposes."
 msgstr "Gallech gadw gwahanol setiau o osodiadau ar gyfer pwrpasau gwahanol."
+
+#. Instructions for user once they've failed the bot challenge
+msgctxt "Anomaly modal"
+msgid "You have %s attempts left."
+msgstr ""
+
+#. Instructions for user once they've failed the bot challenge
+msgctxt "Anomaly modal"
+msgid "You have 1 attempt left."
+msgstr ""
 
 msgctxt "welcome message"
 msgid "You now have the DuckDuckGo extension!"
