@@ -2501,7 +2501,7 @@ msgstr ""
 
 msgctxt "homepage onboarding"
 msgid "Invite friends to the Duck Side!"
-msgstr ""
+msgstr "Bjóddu vinum í andarhliðina!"
 
 msgid "Ireland"
 msgstr "Írland"
@@ -3190,7 +3190,7 @@ msgstr "Nálægt"
 #. The name of the Nepali language
 msgctxt "language_name"
 msgid "Nepali"
-msgstr ""
+msgstr "Nepalska"
 
 msgid "Netherlands"
 msgstr "Holland"
@@ -3202,7 +3202,7 @@ msgstr ""
 #. This is the name of a user setting -- Example image: https://i.imgur.com/LRuNuA8.png
 msgctxt "settings"
 msgid "New URL Style"
-msgstr ""
+msgstr "Nýr vefslóðarstíll"
 
 msgid "New Zealand"
 msgstr "Nýja-Sjáland"
@@ -3309,7 +3309,7 @@ msgstr "Noregur"
 #. The name of the Norwegian language
 msgctxt "language_name"
 msgid "Norwegian"
-msgstr ""
+msgstr "Norska"
 
 msgctxt "precise_user_location"
 msgid "Not getting nearby results?"
@@ -3592,7 +3592,7 @@ msgstr ""
 #. Indicates this is the total 'points for' (i.e. scored by) this team
 msgctxt "Sports module"
 msgid "PF"
-msgstr ""
+msgstr "SF"
 
 #. Instant Answer Tab Name
 msgid "Packages"
@@ -3669,16 +3669,16 @@ msgid "Past Year"
 msgstr "Síðastliðið ár"
 
 msgid "Past day"
-msgstr ""
+msgstr "Síðastliðinn sólarhring"
 
 msgid "Past month"
-msgstr ""
+msgstr "Síðastliðinn mánuður"
 
 msgid "Past week"
-msgstr ""
+msgstr "Síðastliðin vika"
 
 msgid "Past year"
-msgstr ""
+msgstr "Síðastliðið ár"
 
 #. Indicates this is the percentage of wins for this team
 msgctxt "Sports module"
@@ -3688,7 +3688,7 @@ msgstr ""
 #. The name of the Persian language
 msgctxt "language_name"
 msgid "Persian"
-msgstr ""
+msgstr "Persneska"
 
 msgid "Peru"
 msgstr "Perú"
@@ -3709,11 +3709,11 @@ msgstr "Símanúmer"
 
 msgctxt "feedback form"
 msgid "Phone number is incorrect"
-msgstr ""
+msgstr "Símanúmer er rangt"
 
 msgctxt "feedback form"
 msgid "Phone number is missing"
-msgstr ""
+msgstr "Símanúmer vantar"
 
 msgctxt "image-type"
 msgid "Photograph"
@@ -3902,15 +3902,15 @@ msgstr "Grunnatriði um persónuvernd fyrir %s"
 
 msgctxt "SERP footer content"
 msgid "Privacy Newsletter"
-msgstr "Fréttabréf um persónuvernd"
+msgstr "Persónuverndarfréttabréf"
 
 msgctxt "settings"
 msgid "Privacy Newsletter"
-msgstr "Fréttabréf um persónuvernd"
+msgstr "Persónuverndarfréttabréf"
 
 msgctxt "settings"
 msgid "Privacy Newsletters"
-msgstr ""
+msgstr "Persónuverndarfréttabréf"
 
 msgid "Privacy Policy"
 msgstr "Persónuverndarstefna"
@@ -4336,18 +4336,18 @@ msgstr "Leitarniðurstöður"
 
 msgctxt "map"
 msgid "Search This Area"
-msgstr ""
+msgstr "Leita á þessu svæði"
 
 msgctxt "settings"
 msgid "Search Visibility"
-msgstr ""
+msgstr "Leitasýnileiki"
 
 msgid "Search and browse privately with the DuckDuckGo app."
 msgstr ""
 
 msgctxt "feedback form"
 msgid "Search box"
-msgstr ""
+msgstr "Leitakassi"
 
 #. Le terme apparait en survolant le terme "More from ..." sur la page de résultats.
 msgid "Search domain %s"
@@ -4917,7 +4917,7 @@ msgstr "Tillögur:"
 #. Label for summary tab
 msgctxt "Covid 19 module"
 msgid "Summary"
-msgstr ""
+msgstr "Yfirlit"
 
 #. http://i.imgur.com/FczLkAL.png
 msgctxt "settingsvalue"
@@ -4940,7 +4940,7 @@ msgstr ""
 #. Descriptive text for a button that allows users to swap origin and translated languages
 msgctxt "translations_module"
 msgid "Swap languages"
-msgstr ""
+msgstr "Skipta um tungumál"
 
 msgid "Sweden"
 msgstr "Svíþjóð"
@@ -4948,7 +4948,7 @@ msgstr "Svíþjóð"
 #. The name of the Swedish language
 msgctxt "language_name"
 msgid "Swedish"
-msgstr ""
+msgstr "Sænska"
 
 msgctxt "homepage onboarding"
 msgid "Switch to DuckDuckGo and take back your privacy!"
@@ -4969,17 +4969,17 @@ msgstr "Sviss (ítalska)"
 #. Label for symptoms tab
 msgctxt "Covid 19 module"
 msgid "Symptoms"
-msgstr ""
+msgstr "Einkenni"
 
 #. Indicates this is the number of ties for this team
 msgctxt "Sports module"
 msgid "T"
-msgstr ""
+msgstr "J"
 
 #. Abbreviate trillions in a number. E.g. 1,000,000,000,000 becomes 1T
 msgctxt "Stocks module"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 msgid "TV"
 msgstr "Þættir"
@@ -5047,7 +5047,7 @@ msgstr ""
 
 #. in https://duckduckgo.com/params under "Look & Feel Settings" header
 msgid "Text font:"
-msgstr "Textafontur:"
+msgstr "Textaletur:"
 
 msgid "Text:"
 msgstr "Texti:"
@@ -5199,7 +5199,7 @@ msgstr ""
 #. Label for tips tab
 msgctxt "Covid 19 module"
 msgid "Tips"
-msgstr ""
+msgstr "Ábendingar"
 
 msgid "Tired of being tracked online? %sWe can help.%s"
 msgstr "Þreytistu á að vera elt(ur) um netið? %sVið getum aðstoðað.%s"
@@ -5280,7 +5280,7 @@ msgstr ""
 #. Text of a tooltip displayed when the user has copied text that has been translated
 msgctxt "translations_module"
 msgid "Translation copied"
-msgstr ""
+msgstr "Þýðing afrituð"
 
 msgctxt "image-type"
 msgid "Transparent"
@@ -5292,7 +5292,7 @@ msgstr ""
 #. Text of button allowing users to try the bot challenge again
 msgctxt "Anomaly modal"
 msgid "Try Again"
-msgstr ""
+msgstr "Reyna aftur"
 
 #. Alternate header text for front page
 msgid "Try a search!"
@@ -5323,14 +5323,14 @@ msgstr "Prófaðu upphafssíðuna okkar sem sýnir aldrei svona skilaboð:"
 
 #. e.g., 'Try search for Mozart' (when the user searched for 'Mozar')
 msgid "Try searching for %s"
-msgstr ""
+msgstr "Prófaðu að leita að %s"
 
 msgctxt "precise_user_location"
 msgid "Try setting your location manually."
 msgstr "Prófaðu að stilla staðsetningu þína handvirkt."
 
 msgid "Try the DuckDuckGo app"
-msgstr ""
+msgstr "Prófaðu DuckDuckGo appið"
 
 #. Message displayed sometimes at top of results (for bang syntax), e.g. <a href="https://duckduckgo.com/?q=twitter+test">https://duckduckgo.com/?q=twitter+test</a>
 msgid "Try: %s"
@@ -5346,7 +5346,7 @@ msgstr "Tyrkland"
 #. The name of the Turkish language
 msgctxt "language_name"
 msgid "Turkish"
-msgstr ""
+msgstr "Tyrkneska"
 
 #. For safe search, "Turn off: [temporarily] [permanently]"
 msgid "Turn off:"
@@ -5403,7 +5403,7 @@ msgstr ""
 #. The name of the Ukrainian language
 msgctxt "language_name"
 msgid "Ukrainian"
-msgstr ""
+msgstr "Úkraínska"
 
 #. I haven't Translated the links under %s because that will come from Chrome Browser...
 msgid ""
@@ -5505,7 +5505,7 @@ msgstr ""
 #. User clicks this button to share their device's location
 msgctxt "precise_user_location"
 msgid "Use Location"
-msgstr ""
+msgstr "Nota staðsetningu"
 
 msgid "Use in Firefox"
 msgstr "Nota í Firefox"
@@ -5516,7 +5516,7 @@ msgstr "Nota í Safari"
 #. Label for vaccines tab
 msgctxt "Covid 19 module"
 msgid "Vaccines"
-msgstr ""
+msgstr "Bóluefni"
 
 msgctxt "directions"
 msgid "Via"
@@ -5537,10 +5537,10 @@ msgstr "Víetnam"
 #. The name of the Vietnamese language
 msgctxt "language_name"
 msgid "Vietnamese"
-msgstr ""
+msgstr "Víetnamska"
 
 msgid "View File"
-msgstr ""
+msgstr "Skoða skrá"
 
 msgid "View on %s"
 msgstr "Skoða á %s"
@@ -5579,7 +5579,7 @@ msgstr "Skoðaðir tenglar:"
 #. Indicates this is the number of wins for this team
 msgctxt "Sports module"
 msgid "W"
-msgstr ""
+msgstr "S"
 
 msgctxt "forecast"
 msgid "W"
@@ -5588,7 +5588,7 @@ msgstr "V"
 #. Element title explaining this is the win loss record for team, e.g. 10-5
 msgctxt "Sports module"
 msgid "W-L"
-msgstr ""
+msgstr "S-T"
 
 #. Waiting for the device location sensor to return data
 msgctxt "precise_user_location"
@@ -5597,7 +5597,7 @@ msgstr ""
 
 msgctxt "directions"
 msgid "Walking"
-msgstr ""
+msgstr "Gangandi"
 
 msgctxt "size"
 msgid "Wallpaper"
@@ -5674,25 +5674,25 @@ msgstr ""
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't track you. Ever."
-msgstr ""
+msgstr "Við fylgjumst ekki með þér.  Aldrei."
 
 msgctxt "homepage onboarding"
 msgid "We don’t follow you around with ads."
-msgstr ""
+msgstr "Við fylgjumst ekki með þér með auglýsingum."
 
 msgctxt "homepage onboarding"
 msgid "We don’t store your personal information. Ever."
-msgstr ""
+msgstr "Við geymum ekki persónuupplýsingar þínar.  Aldrei."
 
 msgctxt "homepage onboarding"
 msgid ""
-"We don’t store your search history. We therefore have nothing to sell to "
-"advertisers that track you across the Internet."
+"Við geymum ekki leitarferilinn þinn.  Við höfum því ekkert til að selja til"
+"auglýsendur sem fylgjast með þér á internetinu."
 msgstr ""
 
 msgctxt "homepage onboarding"
 msgid "We don’t track you in or out of private browsing mode."
-msgstr ""
+msgstr "Við fylgjumst ekki með þér í eða úr huliðsvafrastillingu."
 
 msgctxt "SERP footer content"
 msgid "We get a ton of searches, and all of them are anonymous."
@@ -5755,12 +5755,12 @@ msgstr "Kveðjuorð"
 
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
-msgstr ""
+msgstr "Velkomin(n) í andarhliðina!"
 
 #. The name of the Welsh language
 msgctxt "language_name"
 msgid "Welsh"
-msgstr ""
+msgstr "Velska"
 
 msgctxt "Sports module"
 msgid "West"
@@ -5778,7 +5778,7 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
-msgstr ""
+msgstr "Hvað kom þér aftur í dag?"
 
 msgctxt "feedback form"
 msgid "What could be better?"
@@ -5830,10 +5830,10 @@ msgid "White"
 msgstr "Hvítt"
 
 msgid "Who We Are"
-msgstr ""
+msgstr "Hver við erum"
 
 msgid "Why Privacy"
-msgstr ""
+msgstr "Hví friðhelgi"
 
 msgctxt "image-layout"
 msgid "Wide"
@@ -5855,7 +5855,7 @@ msgstr "Breidd:"
 
 msgctxt "feedback form"
 msgid "Wikipedia info"
-msgstr ""
+msgstr "Wikipedia upplýsingar"
 
 #. Element title explaining this is the win loss record for team, e.g. 10-5
 msgctxt "Sports module"
@@ -5874,15 +5874,15 @@ msgstr ""
 #. Indicates this is the number of wins for this team
 msgctxt "Sports module"
 msgid "Wins"
-msgstr ""
+msgstr "Sigur"
 
 msgctxt "Covid 19 module"
 msgid "World"
-msgstr ""
+msgstr "Heimur"
 
 msgctxt "Covid 19 module"
 msgid "Worldwide Coverage Map"
-msgstr ""
+msgstr "Heimsútbreislukort"
 
 #. Label for the list of song writers name e.g. 'Written by: Freddy Mercury'
 msgctxt "lyrics_module"
@@ -5891,7 +5891,7 @@ msgstr ""
 
 msgctxt "feedback form"
 msgid "Wrong place is shown"
-msgstr ""
+msgstr "Rangur staður er sýndur"
 
 #. Button label for selecting chart of prices for the year to date
 msgctxt "Stocks module"
@@ -5991,7 +5991,7 @@ msgid ""
 msgstr ""
 
 msgid "YouTube Privacy Warning"
-msgstr ""
+msgstr "YouTube Friðhelgarviðvörun"
 
 msgctxt "video-license"
 msgid "YouTube Standard"
@@ -5999,7 +5999,7 @@ msgstr ""
 
 msgctxt "directions"
 msgid "Your Location"
-msgstr ""
+msgstr "Staðsetning þín"
 
 #. Disclaimer telling users their location remains private.
 msgctxt "local_query_rewrite_experiment"
@@ -6023,7 +6023,7 @@ msgstr ""
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
-msgstr ""
+msgstr "Gögnin þín ættu ekki að vera til sölu."
 
 msgctxt "newsletter email collection"
 msgid ""
@@ -6041,7 +6041,7 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "Your response is 100% anonymous."
-msgstr ""
+msgstr "Svar þitt er 100% nafnlaust."
 
 msgctxt "homepage ATB modal"
 msgid "You’re Searching Privately with DuckDuckGo."
@@ -6054,7 +6054,7 @@ msgstr ""
 
 #. From the guide in the Feedback page.
 msgid "advertising"
-msgstr ""
+msgstr "auglýsingar"
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "by %s"
@@ -6076,7 +6076,7 @@ msgid "default"
 msgstr ""
 
 msgid "email"
-msgstr ""
+msgstr "netfang"
 
 #. Can somebody provide the context?
 msgid "for"
@@ -6144,28 +6144,28 @@ msgid "private"
 msgstr ""
 
 msgid "private search"
-msgstr ""
+msgstr "huliðsleit"
 
 #. The English version is not capitalized...
 msgid "search too long"
 msgstr ""
 
 msgid "site encryption"
-msgstr ""
+msgstr "vefsvæðisdulkóðun"
 
 #. Message displayed sometimes at top of results -- in the context of safe search.
 msgid "temporarily"
 msgstr "tímabundið"
 
 msgid "there was an error."
-msgstr ""
+msgstr "það var villa."
 
 msgctxt "moreinfo"
 msgid "this help page"
 msgstr ""
 
 msgid "too many search terms"
-msgstr ""
+msgstr "of mörg leitarorð"
 
 #. Link on the homepage in the context of the No Tracking and donttrack.us
 msgctxt "donttrackus"
@@ -6183,12 +6183,12 @@ msgstr ""
 #. Used to indicate a matchup between teams, e.g. Team A vs Team B
 msgctxt "Sports module"
 msgid "vs"
-msgstr ""
+msgstr "á móti"
 
 #. An abbreviated form of "year" that can be displayed in a small space e.g. "1yr"
 msgctxt "published date for videos"
 msgid "yr"
-msgstr ""
+msgstr "ár"
 
 #~ msgctxt "SERP footer content"
 #~ msgid "We don't store your search history or follow you around the web."
